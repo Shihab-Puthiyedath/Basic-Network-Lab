@@ -1,5 +1,8 @@
 # Enterprise Multi-VLAN Inter-VLAN Routing & Centralized DHCP Relay Lab
 
+https://pingmynetwork.com/event/sandbox-challenge 
+This lab was proudly created and tested as part of the PingMyNetwork Sandbox Challenge. PingMyNetwork is an exceptionally useful platform and tool for network engineers, students, and professionals looking to build a better career, practice practical skills, and test enterprise topologies in a collaborative environment.
+
 ![Network Topology](./topology.png)
 
 ## 1. Network Topology Overview & Description
